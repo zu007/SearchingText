@@ -30,7 +30,7 @@ public class SearchText {
 
 		
 	for(int i=0;i<lines.size();i++){
-		if(lines.get(i)==.equalsIgnoreCase("Head First Ajax")){
+		if(lines.get(i).equalsIgnoreCase("Head First Ajax")){
 			System.out.println("find");
 			break;
 		}
