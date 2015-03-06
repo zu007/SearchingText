@@ -27,10 +27,10 @@ public class SearchText {
 	} catch (Exception e) {
 		e.getMessage();
 	}
-	Iterator<String> iterator =lines.iterator();
+
 		
 	for(int i=0;i<lines.size();i++){
-		if(lines.get(i)=="Head First jQuery"){
+		if(lines.get(i)==.equalsIgnoreCase("Head First Ajax")){
 			System.out.println("find");
 			break;
 		}
