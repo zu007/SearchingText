@@ -1,0 +1,6 @@
+BookID				BookName									Publisher
+01				Head First jQuery								O'Reilly Media
+02				Head First C									O'Reilly Media
+03				Head First Ajax									O'Reilly Media
+04				OS X Yosemite: The Missing Manual				O'Reilly Media
+05				Learning Apache Mahout Classification			Packt Publishing
